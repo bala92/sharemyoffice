@@ -1,0 +1,40 @@
+@CHARSET "ISO-8859-1";
+.cust_btn1 {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 36px;
+  background: #ff9703;
+  padding: 25px 40px 25px 40px;
+  border: solid #f08a16 8px;
+  text-decoration: none;
+}
+
+.cust_btn1:hover {
+  background: #f58f00;
+  text-decoration: none;
+  color: #fff;
+}
+
+
+.cust_btn2 {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 36px;
+  background: #8cd211;
+  padding: 25px 40px 25px 40px;
+  border: solid #79ba00 8px;
+  text-decoration: none;
+}
+
+.cust_btn2:hover {
+  background: #7ebf06;
+  text-decoration: none;
+  color: #fff;
+}
+
